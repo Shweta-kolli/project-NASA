@@ -1,7 +1,7 @@
-name :
-DOB :
-Salary :
-Experiance :
-Last working day :
-CTC :
+name : janu
+DOB : 1998
+Salary : 25k
+Experiance : 0
+Last working day : 0
+
 
