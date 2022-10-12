@@ -1,7 +1,8 @@
-name : janu
+name : janu m
 DOB : 1998
 Salary : 25k
 Experiance : 0
 Last working day : 0
-CTC : XYZ
+expected ctc : 25la
+notice pd : 90days
 
