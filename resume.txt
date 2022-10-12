@@ -3,5 +3,5 @@ DOB : 1998
 Salary : 25k
 Experiance : 0
 Last working day : 0
-
+CTC : XYZ
 
