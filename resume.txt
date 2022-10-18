@@ -5,4 +5,7 @@ Experiance : 0
 Last working day : 0
 expected ctc : 25la
 notice pd : 90days
+home adress:
+contact adress:
+
 
